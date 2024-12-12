@@ -15,7 +15,7 @@ template = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flask Image Upload and List</title>
+    <title>Flask Image Upload and List App</title>
 </head>
 <body>
     <h1>Image Actions</h1>
